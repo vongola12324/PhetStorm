@@ -1,1 +1,4 @@
-__author__ = 'vongola12324'
+from tkinter import *
+ro = Tk()
+ro.wm_title("PhetStorm")
+ro.mainloop()
