@@ -1,5 +1,5 @@
 # PhetStorm
-PhetStorm is an easy using, powerful software of video encoder.
+PhetStorm is an easy using, powerful software for video encoding.
 
 
 ## Support 
