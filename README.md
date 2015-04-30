@@ -5,8 +5,8 @@ PhetStorm is an easy using, powerful software for video encoding.
 ## Support 
 
 ### Video Compression Format
-* H.264 (AVC)
-* H.256 (HEVC) 
+* H.264 (AVC) with x264
+* H.256 (HEVC) with x265
 
 ### Audio Compression Format
 * AAC
