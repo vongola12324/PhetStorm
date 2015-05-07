@@ -1,4 +1,6 @@
-from tkinter import *
-ro = Tk()
-ro.wm_title("PhetStorm")
-ro.mainloop()
+from UI import window
+import sys
+import os
+
+UI = window()
+UI.loop()
